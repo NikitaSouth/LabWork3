@@ -1,3 +1,3 @@
 # LabWork3
-Third labarotory work in BMSTU
+Third laboratory work in BMSTU
 Freshman year, first semester.
